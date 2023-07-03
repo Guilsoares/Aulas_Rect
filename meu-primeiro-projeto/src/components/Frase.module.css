@@ -1,0 +1,28 @@
+.fraseContainer{
+    background-color: gray;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px black;
+
+}
+
+.fraseContainer > h2{
+    width: 350px;
+    color: white;
+    background-color: black;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.fraseContainer > ol{
+    width: 400px;
+    margin: auto;
+    background-color: darkgray;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px black;
+}
+
+.fraseContainer > ol > li{
+    width: 350px;
+    text-align: center;
+}
