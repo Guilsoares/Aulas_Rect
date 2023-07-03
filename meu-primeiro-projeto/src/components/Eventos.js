@@ -1,7 +1,8 @@
 function Eventos(){
 
-    function meuEvento(){
-        window.alert('Fui Ativado')
+    function meuEvento(e){
+        e.preventDefault()
+        console.log('Enviado!')
     }
 
     return (
