@@ -1,5 +1,4 @@
 import Frases from "./Frases";
-import SayMyName from "./SayMyName";
 
 
 function HelloWorld(){
@@ -8,7 +7,6 @@ function HelloWorld(){
         <div>
             <h1>Meu Primeiro Componente</h1>
             <Frases/>
-            <SayMyName/>
         </div>
     )
 
