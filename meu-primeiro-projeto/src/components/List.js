@@ -8,7 +8,7 @@ function List(){
             <li> <Itens marca="Ferrari" lancamento={1984} /> </li>
             <li> <Itens marca="Fiat" lancamento={2005} /> </li>
             <li> <Itens marca="Chevrolet" lancamento={2002} /> </li>
-            <li> <Itens/> </li>
+            <li> <Itens/> </li> 
         </ul>
         </>
 
